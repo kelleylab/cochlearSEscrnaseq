@@ -1,4 +1,4 @@
-# Work in progress... Will be updated continuously.. 
+# Our repository is a work in progress and will be updated soon... 
 # Characterization of the development of the cochlear epithelium at the single cell level
 # http://doi.org/10.1038/s41467-020-16113-y
 
